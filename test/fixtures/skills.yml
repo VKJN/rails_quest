@@ -1,0 +1,7 @@
+skill_one:
+  name: hacking
+  category: tech
+
+skill_two:
+  name: stealth
+  category: physical

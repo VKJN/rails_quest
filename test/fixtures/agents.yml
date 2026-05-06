@@ -1,0 +1,9 @@
+agent_one:
+  codename: ghost
+  level: 5
+  active: true
+
+agent_two:
+  codename: shadow
+  level: 8
+  active: false

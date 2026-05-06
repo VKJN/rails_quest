@@ -1,0 +1,7 @@
+agent_skill_one:
+  agent: agent_one
+  skill: skill_one
+
+agent_skill_two:
+  agent: agent_two
+  skill: skill_two

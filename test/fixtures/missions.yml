@@ -1,0 +1,9 @@
+mission_one:
+  agent: agent_one
+  title: First Mission
+  status: assigned
+
+mission_two:
+  agent: agent_two
+  title: Second Mission
+  status: in_progress
